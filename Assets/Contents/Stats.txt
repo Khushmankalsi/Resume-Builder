@@ -1,0 +1,10 @@
+Database name:- resumebuilder
+Table name:- users
+-- id
+-- full_name
+-- email_id
+-- password
+
+
+
+13:20
