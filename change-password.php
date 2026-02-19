@@ -19,7 +19,7 @@
 
                     <div>
                         <h1 class="h3 fw-normal my-1"><b>Artificial desgin builder</b> Using Ai</h1>
-                        <p class="m-0">Change Passwordsdfsd With gffggdaround 24 words </p>
+                        <p class="m-0">Password system modified by Developer B for better security</p>
 
                     </div>
                 </div>
