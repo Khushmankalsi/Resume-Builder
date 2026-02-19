@@ -21,7 +21,7 @@
 
                     <div>
                         <h1 class="h3 fw-normal my-1"><b>Resume </b> Builder</h1>
-                        <p class="m-0">Forgot your password</p>
+                        <p class="m-0">Main branch changed this line</p>
 
                     </div>
                 </div>
