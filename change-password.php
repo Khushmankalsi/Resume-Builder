@@ -18,8 +18,8 @@
                     <img class="mb-4" src="./Assets/images/logo.png" alt="" height="70">
 
                     <div>
-                        <h1 class="h3 fw-normal my-1"><b>Resume</b> Builder</h1>
-                        <p class="m-0">Change Password</p>
+                        <h1 class="h3 fw-normal my-1"><b>Artificial desgin builder</b> Using Ai</h1>
+                        <p class="m-0">Change Password With around 24 words </p>
 
                     </div>
                 </div>
