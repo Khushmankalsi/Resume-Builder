@@ -20,19 +20,20 @@ $fn->nonAuthPage();
             </div>
         </div>
 
-        <div class="form-floating mb-4">
-            <input type="email" class="form-control" id="floatingEmail" placeholder="name@example.com" name="email_id" required >
-            <label for="floatingInput"><i class="bi bi-envelope"></i> Email address</label>
-        </div>
+        <form action="actions/sendcode.action.php" method="post">
+            <div class="form-floating mb-4">
+                <input type="email" class="form-control" id="floatingEmail" placeholder="name@example.com" name="email_id" required >
+                <label for="floatingInput"><i class="bi bi-envelope"></i> Email address</label>
+            </div>
 
-        <button class="btn btn-primary w-100 py-2" type="submit"><i class="bi bi-send"></i> Send Verification Code</button>
-        <div class="d-flex justify-content-between my-3">
-            <a href="register.php" class="text-decoration-none">Register</a>
-            <a href="login.php" class="text-decoration-none">Login</a>
-        </div>
+            <button class="btn btn-primary w-100 py-2" type="submit"><i class="bi bi-send"></i> Send Verification Code</button>
+            <div class="d-flex justify-content-between my-3">
+                <a href="register.php" class="text-decoration-none">Register</a>
+                <a href="login.php" class="text-decoration-none">Login</a>
+            </div>
+        </form>
     </main>
 </div>
-
 <?php
 require './Assets/includes/footer.php';
 ?>
